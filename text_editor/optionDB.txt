@@ -1,0 +1,2 @@
+*background: #211b1b
+*Text*background: #000000
